@@ -1,0 +1,3 @@
+discord-dice-bot-client-id 321824641611989002
+discord-dice-bot-client-token pq-pIoPApNbnx1k2o4-wmcMCw74lQJEB
+discord-dice-bot-token MzIxODI0NjQxNjExOTg5MDAy.DD0bEQ.oN3zg7HLchQTlc18104z8_UxfwA
